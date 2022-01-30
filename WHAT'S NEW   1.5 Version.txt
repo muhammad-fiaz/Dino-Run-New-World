@@ -1,0 +1,50 @@
+FOLLOW THESE INSTUCTIONS:
+
+1.PRESS SPACE BAR TO START RUN THE GAME.
+2.PRESS SPACE TO JUMP.
+3.IF YOU WANT TO SNEAK PRESS DOWN ARROW BUTTON.
+
+
+                                   IMPROVEMENT LOG:-
+WHAT'S NEW 1.5 VERSION:-
+
+1.Animated Background Added.
+2.Background Music for better Experience.
+3.Random Speed Fix
+4.Gravity Increase( For long jump )
+5.Game Opening Speed Increase.
+6.Fixed Error Popup.
+7.Clouds Had been Updated.
+8.Improved Game Resolution 
+9.New icon look Updated.
+10.Run-Time Error Had been Fixed.
+11.Teminal Run-Time Had Fixed.
+12.random maps available.
+13.game size reduced.
+14.installable setup available
+15.system crash solved.
+16.Not running on some pc problem had been solved.
+17.custom installation.
+18.More Fun Available.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WHAT'S NEW 1.0 VERSION:-
+
+1.Animated Background Added.
+2.Background Music for better Experience.
+3.Random Speed Fix improved.
+4.Gravity Increase( For long jump )
+5.Game Opening Speed Increase.
+6.Fixed Error Popup.
+7.Clouds Had been Updated.
+8.Improved Game Resolution 
+9.New icon look Updated.
+10.Run-Time Error Had been Fixed.
+11.Teminal Run-Time Had Fixed.
+12.random maps available.
+13.game size reduced.
+14.installable setup available
+15.system crash solved.
+16.Not running on some pc problem had been solved.
+17.More Fun Available.
